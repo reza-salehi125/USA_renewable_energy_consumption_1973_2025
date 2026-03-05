@@ -13,7 +13,7 @@ The raw dataset consisted of multiple Excel (.xlsx) files representing renewable
 
 ## Data Preparation and Cleaning 
 The dataset underwent a couple of pre-processing steps. See here
-https://www.kaggle.com/datasets/salehireza2083/renewable-energy-consumption-usa-1973-2025
+[here](https://www.kaggle.com/datasets/salehireza2083/renewable-energy-consumption-usa-1973-2025)
 Final Dataset Structure (Cleaned and Analysis-ready)
 The final dataset is provided as a single cleaned and analysis-ready CSV file, covering renewable energy consumption across all major U.S. sectors from January 1973 to December 2025.
 Visualization
