@@ -1,10 +1,10 @@
 # U.S. Renewable Energy Consumption (1973 - 2025)
 ---
 
-Dataset Source
-The raw dataset, U.S. renewable energy (RE) consumption historical data from January 1973 to December 2025, was downloaded from the official website of the U.S. Energy Information Administration (EIA):
-https://www.eia.gov
+## Dataset Source
+The raw dataset, U.S. renewable energy (RE) consumption historical data from January 1973 to December 2025, was downloaded from the official website of the U.S. Energy Information Administration (EIA): https://www.eia.gov
 This is a publicly available U.S. government data source.
+
 The raw dataset consisted of multiple Excel (.xlsx) files representing renewable energy consumption across the following sectors: Industrial, Residential, Commercial, Transportation, and Electric Power. The Renewable energy sources included conventional hydroelectric, hydroelectric, geothermal, solar, wind, wood and waste energy, biomass losses and co-products, ethanol fuel (excluding denaturant), biodiesel, renewable diesel fuels, and other biofuels.
 
 Data Preparation and Cleaning 
