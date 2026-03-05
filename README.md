@@ -14,7 +14,7 @@ See [here](https://www.kaggle.com/datasets/salehireza2083/renewable-energy-consu
 
 ---
 
-## Final Dataset Structure (Cleaned and Analysis-ready)
+## Final Dataset (Cleaned and Analysis-ready)
 The final dataset is provided as a single cleaned and analysis-ready CSV file, covering renewable energy consumption across all major U.S. sectors from January 1973 to December 2025.
 
 ---
