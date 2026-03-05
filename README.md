@@ -1,4 +1,4 @@
-# U.S. Renewable Energy Consumption (Jan 1973 - Dec 20225)
+# U.S. Renewable Energy Consumption (1973 - 2025)
 
 Dataset Source
 The raw dataset, U.S. renewable energy (RE) consumption historical data from January 1973 to December 2025, was downloaded from the official website of the U.S. Energy Information Administration (EIA):
